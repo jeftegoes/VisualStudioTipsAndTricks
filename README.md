@@ -7,6 +7,8 @@
 3. [Third Example](#third-example)
 4. [Compiling the Application](#CompilingApplication)
 
+---
+
 ## Text Navigation - Part I <a id='TextNavigation'></a>
 - **Ctrl** to move the cursor one word at a time 
 - **End** to move the cursor to the end of the line 
@@ -92,7 +94,7 @@ cursor is
 - **Shift + Tab** to move the selection one tab stop to the left 
 - **Ctrl + K, Ctrl + F** to format the code
 
-## Compiling the Application <a id='CompilingApplication'></a>
+## Compiling the Application <a id='id-section2'></a>
 - **Ctrl + Shift + B** to build the application without running it 
 - **F8** to cycle through the errors 
 - **Alt + Tab** to switch between the open applications 
