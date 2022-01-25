@@ -1,6 +1,13 @@
+
 # Visual Studio Tips & Tricks (Windows)
 
-## Text Navigation - Part I
+# Table of Contents
+1. [Text Navigation - Part I](#TextNavigation)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Compiling the Application](#CompilingApplication)
+
+## Text Navigation - Part I <a id='TextNavigation'></a>
 - **Ctrl** to move the cursor one word at a time 
 - **End** to move the cursor to the end of the line 
 - **Home** to move the cursor to the beginning of the line
@@ -85,7 +92,7 @@ cursor is
 - **Shift + Tab** to move the selection one tab stop to the left 
 - **Ctrl + K, Ctrl + F** to format the code
 
-## Compiling the Application
+## Compiling the Application <a id='CompilingApplication'></a>
 - **Ctrl + Shift + B** to build the application without running it 
 - **F8** to cycle through the errors 
 - **Alt + Tab** to switch between the open applications 
