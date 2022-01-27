@@ -1,21 +1,20 @@
-# Visual Studio tips and tricks (Windows)
+# Visual Studio tips and tricks (Windows) <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
 
-- [Visual Studio tips and tricks (Windows)](#visual-studio-tips-and-tricks-windows)
-  - [1. Text navigation - Part I](#1-text-navigation---part-i)
-  - [2. Text navigation - Part II](#2-text-navigation---part-ii)
-  - [3. Text selection](#3-text-selection)
-  - [4. Deleting text](#4-deleting-text)
-  - [5. Commenting code](#5-commenting-code)
-  - [6. Bookmarks](#6-bookmarks)
-  - [7. Expanding / Collapsing](#7-expanding--collapsing)
-  - [8. Tabs and windows](#8-tabs-and-windows)
-  - [9. Find and replace](#9-find-and-replace)
-  - [10. Running and debugging](#10-running-and-debugging)
-  - [11. Code snippets](#11-code-snippets)
-  - [12. Formatting code](#12-formatting-code)
-  - [13. Compiling the application](#13-compiling-the-application)
+- [1. Text navigation - Part I](#1-text-navigation---part-i)
+- [2. Text navigation - Part II](#2-text-navigation---part-ii)
+- [3. Text selection](#3-text-selection)
+- [4. Deleting text](#4-deleting-text)
+- [5. Commenting code](#5-commenting-code)
+- [6. Bookmarks](#6-bookmarks)
+- [7. Expanding / Collapsing](#7-expanding--collapsing)
+- [8. Tabs and windows](#8-tabs-and-windows)
+- [9. Find and replace](#9-find-and-replace)
+- [10. Running and debugging](#10-running-and-debugging)
+- [11. Code snippets](#11-code-snippets)
+- [12. Formatting code](#12-formatting-code)
+- [13. Compiling the application](#13-compiling-the-application)
 
 ## 1. Text navigation - Part I
 - **Ctrl** to move the cursor one word at a time 
