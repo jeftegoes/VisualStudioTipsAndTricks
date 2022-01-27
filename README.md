@@ -1,5 +1,6 @@
-
 # Visual Studio Tips & Tricks (Windows)
+
+## Contents <!-- omit in toc -->
 
 - [Visual Studio Tips & Tricks (Windows)](#visual-studio-tips--tricks-windows)
   - [1. Text Navigation - Part I](#1-text-navigation---part-i)
