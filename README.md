@@ -15,6 +15,7 @@
 - [11. Code snippets](#11-code-snippets)
 - [12. Formatting code](#12-formatting-code)
 - [13. Compiling the application](#13-compiling-the-application)
+- [14. Make Visual Studio (2022) use VsCode shortcut keys / key bindings](#14-make-visual-studio-2022-use-vscode-shortcut-keys--key-bindings)
 
 ## 1. Text navigation - Part I
 - **Ctrl** to move the cursor one word at a time 
@@ -105,3 +106,7 @@ cursor is
 - **F8** to cycle through the errors 
 - **Alt + Tab** to switch between the open applications 
 - **Ctrl + R** to refresh the current page in the browser
+
+## 14. Make Visual Studio (2022) use VsCode shortcut keys / key bindings
+- **Tools -> Options -> Environment -> Keyboard**
+![VsCode shortcut keys](Images/VisualStudioOptionsKeyboard.png)
